@@ -1,0 +1,38 @@
+{
+  "default": {
+    "W": {
+      "type": "key",
+      "android_keycode": 19,
+      "desc": "DPAD_UP (move forward)"
+    },
+    "A": {
+      "type": "key",
+      "android_keycode": 21,
+      "desc": "DPAD_LEFT"
+    },
+    "S": {
+      "type": "key",
+      "android_keycode": 20,
+      "desc": "DPAD_DOWN"
+    },
+    "D": {
+      "type": "key",
+      "android_keycode": 22,
+      "desc": "DPAD_RIGHT"
+    },
+    "SPACE": {
+      "type": "key",
+      "android_keycode": 62,
+      "desc": "Jump / Action"
+    },
+    "LEFT_CLICK": {
+      "type": "tap",
+      "desc": "Left click = screen tap"
+    },
+    "RIGHT_CLICK": {
+      "type": "key",
+      "android_keycode": 4,
+      "desc": "Back"
+    }
+  }
+}
